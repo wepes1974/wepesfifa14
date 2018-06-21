@@ -17,7 +17,7 @@
 
   色変換のコード : https://docs.opencv.org/3.4.1/d7/d1b/group__imgproc__misc.html
 
-  フィルタリング処理に参考 : https://blog.umentu.work/?p=445?p=445
+   フィルタリング処理に参考 : https://blog.umentu.work/?p=445?p=445
 
 ・　実行の様子:youtubeでの動画
 
