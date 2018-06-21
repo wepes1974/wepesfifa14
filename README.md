@@ -11,4 +11,4 @@
   
 ・実行環境
 
-  macOS High Sierra バージョン10.13.5
+  macOS High Sierra バージョン10.13.5 , Python 3.6.5 , OpenCV 3.4.1
