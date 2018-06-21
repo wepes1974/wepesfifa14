@@ -11,4 +11,4 @@
   
 ・実行環境
 
-    
+  macOS High Sierra バージョン　10.13.5
