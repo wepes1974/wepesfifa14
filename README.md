@@ -15,14 +15,14 @@
     
 ・参考サイト
 
-  色変換のコード : https://docs.opencv.org/3.4.1/d7/d1b/group__imgproc__misc.html
+    色変換のコード : https://docs.opencv.org/3.4.1/d7/d1b/group__imgproc__misc.html
   
-  フィルタリング処理に参考 : https://blog.umentu.work/?p=445?p=445
+    フィルタリング処理に参考 : https://blog.umentu.work/?p=445?p=445
 
 ・　実行の様子:youtubeでの動画
 
-  コントラスト:https://www.youtube.com/watch?v=VfnVca_bCYI&index=4&list=PLLNi30I0asEkRe0Pyobo0nEqGa5IIzcsV&t=0s
+    コントラスト:https://www.youtube.com/watch?v=VfnVca_bCYI&index=4&list=PLLNi30I0asEkRe0Pyobo0nEqGa5IIzcsV&t=0s
    
-  カラー:https://www.youtube.com/watch?v=a57habt7fv0&feature=youtu.be
+    カラー:https://www.youtube.com/watch?v=a57habt7fv0&feature=youtu.be
   
-  フィルタリング:https://www.youtube.com/watch?v=dNX-V7cVSJg&feature=youtu.be
+    フィルタリング:https://www.youtube.com/watch?v=dNX-V7cVSJg&feature=youtu.be
