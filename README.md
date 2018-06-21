@@ -21,7 +21,7 @@
 
 ・　実行の様子:youtubeでの動画
 
-　　 コントラスト:https://www.youtube.com/watch?v=VfnVca_bCYI&index=4&list=PLLNi30I0asEkRe0Pyobo0nEqGa5IIzcsV&t=0s
+  コントラスト:https://www.youtube.com/watch?v=VfnVca_bCYI&index=4&list=PLLNi30I0asEkRe0Pyobo0nEqGa5IIzcsV&t=0s
    
   カラー:https://www.youtube.com/watch?v=a57habt7fv0&feature=youtu.be
   
